@@ -1,0 +1,10 @@
+﻿  main.cpp
+D:\MAT-564\Amazons Project\Amazons_project\main.h(296,6): warning C4101: 'new_px': unreferenced local variable
+D:\MAT-564\Amazons Project\Amazons_project\main.h(296,14): warning C4101: 'new_py': unreferenced local variable
+D:\MAT-564\Amazons Project\Amazons_project\main.h(991,6): warning C4101: 'count_player': unreferenced local variable
+D:\MAT-564\Amazons Project\Amazons_project\main.h(989,6): warning C4101: 'opp_scope': unreferenced local variable
+D:\MAT-564\Amazons Project\Amazons_project\main.h(992,6): warning C4101: 'count_opp': unreferenced local variable
+D:\MAT-564\Amazons Project\Amazons_project\main.h(769,6): warning C4101: 'aftermove_scope': unreferenced local variable
+D:\MAT-564\Amazons Project\Amazons_project\main.h(1120): warning C4715: 'FindSecondPlayer': not all control paths return a value
+D:\MAT-564\Amazons Project\Amazons_project\main.h(1132): warning C4715: 'FindFirstPlayer': not all control paths return a value
+  Amazons_project.vcxproj -> D:\MAT-564\Amazons Project\Amazons_project\x64\Debug\Amazons_project.exe
